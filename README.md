@@ -1,2 +1,3 @@
 # python-snake-game
-Python Snake Game
+
+## Python Snake Game
